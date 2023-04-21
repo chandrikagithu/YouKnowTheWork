@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    color: #23233d;
+}
+
+.cv-container {
+    min-width: 600px;
+    margin: auto;
+}
+
+.caroline-container {
+    background-color: #fc8095;
+    min-height: 100vh;
+    min-width: 700px;
+    width: 768px;
+    padding: 30px;
+
+}
+
+
+
+.each-container {
+    border-bottom: 2px solid #23233d;
+    padding-right: 20px;
+    padding-left: 10px;
+    height: fit-content;
+}
+
+
+.profile-title {
+    font-size: 12px;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.name {
+    font-size: 30px;
+
+}
+
+.role {
+    font-size: 15px;
+}
+
+.line1 {
+    border: 2px solid #23233d;
+    height: 120px;
+    margin: 0px;
+}
+
+.line3 {
+    border: 2px solid #23233d;
+    height: 245px;
+    margin: 0px;
+}
+
+.context {
+    font-size: 12px;
+    font-family: 'Roboto';
+
+}
+
+.briefcase-icon {
+    width: 70px;
+    border-radius: 70px;
+    border: 3px solid #23233d;
+    padding: 10px;
+}
+
+.years {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.icon2 {
+    font-size: 40px;
+    color: #fc8095;
+}
+
+.bgColor {
+    background-color: #23233d;
+}
+
+.description {
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Roboto';
+
+}
+
+.technology {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.circle {
+    font-size: 8px;
+}
+
+.year {
+    font-size: 13px;
+    font-weight: 700;
+}
